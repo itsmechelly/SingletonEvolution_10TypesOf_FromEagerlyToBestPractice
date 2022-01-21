@@ -1,4 +1,11 @@
 package n10_SingletonEnum;
 
-public class MySingleton {
+enum MySingleton {
+
+    INSTANCE;
+    String name = "Walter white";
+
+    public void sayMyName() {
+        System.out.println(name);
+    }
 }
