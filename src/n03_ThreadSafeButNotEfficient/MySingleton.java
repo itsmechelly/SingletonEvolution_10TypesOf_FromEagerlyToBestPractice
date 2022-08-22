@@ -8,7 +8,7 @@ public class MySingleton {
         System.out.println("CTOR in action!");
     }
 
-    public static synchronized MySingleton getInstance() {//Now Thread Safe, But more efficient
+    public static synchronized MySingleton getInstance() {//Now Thread Safe, But not efficient
         if (instance == null) {
             instance = new MySingleton();//Not Thread Safe
         }
