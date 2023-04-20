@@ -1,6 +1,8 @@
 ﻿# SingletonEvolution_10TypesOf_FromEagerlyToBestPractice
 
-Singleton is a Creational Design Pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
+Singleton is a Creational Design Pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.<br/>
+
+To view the website 👉🏻 [please CLICK HERE](http://singleton-evolution.s3-website-eu-west-1.amazonaws.com/).
 
 ## 🤔 What is the purpose of this application?
 
